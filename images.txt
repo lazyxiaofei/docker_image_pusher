@@ -46,3 +46,4 @@ adguard/adguardhome:latest
 koush/scrypted:latest
 envyafish/byte-muse:latest
 ghcr.io/sarperavci/cloudflarebypassforscraping:latest
+music-assistant/server:latest
